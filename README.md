@@ -21,7 +21,6 @@ TP3-CNN/
 ```
 ## Carpetas principales
 -  Modelos/: contiene los notebooks de entrenamiento y evaluación.
-- dataset/: carpeta local donde TensorFlow Datasets guarda el dataset descargado.
 - modelos_guardados/: modelos entrenados exportados en formato .keras.
 - resultados/: métricas, tablas de resultados y salidas generadas por los notebooks.
 
