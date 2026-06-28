@@ -8,6 +8,7 @@ wheels/
 .agents
 skills-lock.json
 dataset
+CLAUDE.md
 # Virtual environments
 .venv
 .venv-windows
