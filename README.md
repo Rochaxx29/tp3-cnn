@@ -8,7 +8,7 @@ Se comparan modelos preentrenados de Keras aplicando transfer learning sobre im�
 ```text
 TP3-CNN/
 ├── Modelos/
-│   ├── ConvNextTiny.ipynb
+│   ├── EfficientNetB2.ipynb
 │   ├── Xception.ipynb
 │   ├── InceptionV3.ipynb
 │   └── modelo_custom.ipynb
@@ -25,7 +25,7 @@ TP3-CNN/
 - resultados/: métricas, tablas de resultados y salidas generadas por los notebooks.
 
 ## Notebooks
-1. ConvNextTiny.ipynb: transfer learning usando ConvNeXtTiny.
+1. EfficientNetB2.ipynb: transfer learning usando EfficientNetB2.
 2. Xception.ipynb: transfer learning usando Xception.
 3. InceptionV3.ipynb: transfer learning usando InceptionV3.
 4. modelo_custom.ipynb: reservado para un modelo propio o basado en paper.
