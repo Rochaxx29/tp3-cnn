@@ -1,0 +1,2 @@
+modelo,modo,dataset,train_split,val_split,test_split,img_size,batch_size,augmentation,epochs_configuradas,epochs_ejecutadas,learning_rate,finetune_lr,finetune_freeze_layers,test_loss,test_accuracy
+Xception,augmentation,caltech_birds2011,train[:80%],train[80%:],test,299,8,True,50,34,0.0005,,,1.372688889503479,0.632378339767456

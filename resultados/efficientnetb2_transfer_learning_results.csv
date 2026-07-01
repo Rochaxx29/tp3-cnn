@@ -1,0 +1,2 @@
+modelo,modo,dataset,train_split,val_split,test_split,img_size,batch_size,augmentation,epochs_configuradas,epochs_ejecutadas,learning_rate,finetune_lr,finetune_freeze_layers,test_loss,test_accuracy
+EfficientNetB2,transfer_learning,caltech_birds2011,train[:80%],train[80%:],test,260,16,False,30,28,0.0005,,,1.1139583587646484,0.6965826749801636
