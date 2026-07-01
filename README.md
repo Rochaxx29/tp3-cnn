@@ -10,7 +10,6 @@ TP3-CNN/
 ├── Modelos/
 │   ├── EfficientNetB2.ipynb
 │   ├── Xception.ipynb
-│   ├── InceptionV3.ipynb
 │   └── modelo_custom.ipynb
 ├── dataset/
 ├── modelos_guardados/
@@ -27,5 +26,4 @@ TP3-CNN/
 ## Notebooks
 1. EfficientNetB2.ipynb: transfer learning usando EfficientNetB2.
 2. Xception.ipynb: transfer learning usando Xception.
-3. InceptionV3.ipynb: transfer learning usando InceptionV3.
-4. modelo_custom.ipynb: reservado para un modelo propio o basado en paper.
+3. modelo_custom.ipynb: reservado para un modelo propio o basado en paper.
